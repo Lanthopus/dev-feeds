@@ -432,5 +432,10 @@
 		<outline text="SERanking" title="SERanking" description="" type="rss" version="RSS" htmlUrl="https://seranking.com/blog/" xmlUrl="https://seranking.com/blog/feed/"/>
 		<outline text="Yoast" title="Yoast" description="" type="rss" version="RSS" htmlUrl="https://yoast.com/" xmlUrl="https://yoast.com/feed/"/>
 	</outline>
+	<outline text="Security" title="Security">
+		<outline text="Security.NL" title="Security.NL" description="" type="rss" version="RSS" htmlUrl="https://www.security.nl/" xmlUrl="https://www.security.nl/rss/headlines.xml"/>
+		<outline text="/r/netsec - Information Security News" title="/r/netsec - Information Security News" description="A community for technical news and discussion of information security and closely related topics." type="rss" version="RSS" htmlUrl="https://old.reddit.com/r/netsec/top/?sort=top&t=month" xmlUrl="https://old.reddit.com/r/netsec/top/.rss?sort=top&t=month"/>
+		<outline text="Nationaal Cyber Security Centrum - Nieuwsberichten" title="Nationaal Cyber Security Centrum - Nieuwsberichten" description="Nieuwsberichten op Nationaal Cyber Security Centrum" type="rss" version="RSS" htmlUrl="https://www.ncsc.nl/actueel/nieuws" xmlUrl="https://feeds.ncsc.nl/nieuws.rss"/>
+	</outline>
 	</body>
 </opml>
